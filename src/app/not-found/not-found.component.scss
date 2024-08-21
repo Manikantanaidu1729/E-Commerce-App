@@ -1,0 +1,18 @@
+
+.nf-container{
+    height: 100vh;
+}
+
+p{
+    text-align: center;
+    color: red;
+
+    a{
+        text-decoration: none;
+        color: black;
+    }
+
+    a:hover{
+        color: blue;
+    }
+}
